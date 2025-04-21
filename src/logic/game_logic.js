@@ -1,4 +1,4 @@
-import countryData from './country_neighbors.json' with { type: "json" };
+import countryData from '../data/country_neighbors.json' with { type: "json" };
 
 class Game {
     constructor() {
