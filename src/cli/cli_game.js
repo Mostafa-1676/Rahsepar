@@ -62,9 +62,11 @@ async function runInteractiveGame() {
         } else {
             console.log(`✅ ${result.message}`);
         }
+        console.log('----------------')
     }
 
-    console.log('\n🏁 Game over!');
+    console.log('\n🏁 Game over!\n');
+    console.log(`Player ${game.getCurrentPlayer() === 1 ? 2 : 1} wins!`)
     console.log('Countries used: ', game.getUsedCountries().join(', '));
     rl.close();
 }
