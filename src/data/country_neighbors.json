@@ -9,7 +9,7 @@
     ],
     "Afghanistan": [
         "China",
-        "Iran, Islamic Republic Of",
+        "Iran",
         "Pakistan",
         "Tajikistan",
         "Turkmenistan",
@@ -26,7 +26,7 @@
     "Armenia": [
         "Azerbaijan",
         "Georgia",
-        "Iran, Islamic Republic Of",
+        "Iran",
         "Turkey"
     ],
     "Angola": [
@@ -60,8 +60,8 @@
     "Azerbaijan": [
         "Armenia",
         "Georgia",
-        "Iran, Islamic Republic Of",
-        "Russian Federation",
+        "Iran",
+        "Russia",
         "Turkey"
     ],
     "Bosnia And Herzegovina": [
@@ -83,7 +83,7 @@
     "Burkina Faso": [
         "Benin",
         "Ghana",
-        "Cote D\"Ivoire",
+        "Ivory Coast",
         "Mali",
         "Niger",
         "Togo"
@@ -146,7 +146,7 @@
         "Latvia",
         "Lithuania",
         "Poland",
-        "Russian Federation",
+        "Russia",
         "Ukraine"
     ],
     "Belize": [
@@ -188,7 +188,7 @@
         "Italy",
         "Liechtenstein"
     ],
-    "Cote D\"Ivoire": [
+    "Ivory Coast": [
         "Burkina Faso",
         "Ghana",
         "Guinea",
@@ -215,13 +215,13 @@
         "India",
         "Kazakhstan",
         "Kyrgyzstan",
-        "Lao People\"s Democratic Republic",
+        "Laos",
         "Mongolia",
         "Myanmar",
         "Nepal",
         "North Korea",
         "Pakistan",
-        "Russian Federation",
+        "Russia",
         "Tajikistan",
         "Vietnam"
     ],
@@ -272,7 +272,7 @@
         "Haiti"
     ],
     "Algeria": [
-        "Libyan Arab Jamahiriya",
+        "Libya",
         "Mali",
         "Mauritania",
         "Morocco",
@@ -286,11 +286,11 @@
     ],
     "Estonia": [
         "Latvia",
-        "Russian Federation"
+        "Russia"
     ],
     "Egypt": [
         "Israel",
-        "Libyan Arab Jamahiriya",
+        "Libya",
         "Sudan"
     ],
     "Western Sahara": [],
@@ -315,7 +315,7 @@
     ],
     "Finland": [
         "Norway",
-        "Russian Federation",
+        "Russia",
         "Sweden"
     ],
     "Fiji": [],
@@ -344,7 +344,7 @@
     "Georgia": [
         "Armenia",
         "Azerbaijan",
-        "Russian Federation",
+        "Russia",
         "Turkey"
     ],
     "French Guiana": [
@@ -354,7 +354,7 @@
     "Guernsey": [],
     "Ghana": [
         "Burkina Faso",
-        "Cote D\"Ivoire",
+        "Ivory Coast",
         "Togo"
     ],
     "Gibraltar": [
@@ -366,7 +366,7 @@
     ],
     "Guinea": [
         "Guinea-Bissau",
-        "Cote D\"Ivoire",
+        "Ivory Coast",
         "Liberia",
         "Mali",
         "Senegal",
@@ -383,7 +383,7 @@
         "Macedonia",
         "Turkey"
     ],
-    "South Georgia And Sandwich Isl.": [],
+    "South Georgia and the South Sandwich Islands": [],
     "Guatemala": [
         "Belize",
         "El Salvador",
@@ -438,8 +438,8 @@
         "Egypt",
         "Jordan",
         "Lebanon",
-        "Palestinian Territory, Occupied",
-        "Syrian Arab Republic"
+        "Palestine",
+        "Syria"
     ],
     "Isle Of Man": [],
     "India": [
@@ -452,14 +452,14 @@
     ],
     "British Indian Ocean Territory": [],
     "Iraq": [
-        "Iran, Islamic Republic Of",
+        "Iran",
         "Jordan",
         "Kuwait",
         "Saudi Arabia",
-        "Syrian Arab Republic",
+        "Syria",
         "Turkey"
     ],
-    "Iran, Islamic Republic Of": [
+    "Iran": [
         "Afghanistan",
         "Armenia",
         "Azerbaijan",
@@ -482,9 +482,9 @@
     "Jordan": [
         "Iraq",
         "Israel",
-        "Palestinian Territory, Occupied",
+        "Palestine",
         "Saudi Arabia",
-        "Syrian Arab Republic"
+        "Syria"
     ],
     "Japan": [],
     "Kenya": [
@@ -500,7 +500,7 @@
         "Uzbekistan"
     ],
     "Cambodia": [
-        "Lao People\"s Democratic Republic",
+        "Laos",
         "Thailand",
         "Vietnam"
     ],
@@ -509,7 +509,7 @@
     "Saint Kitts And Nevis": [],
     "North Korea": [
         "China",
-        "Russian Federation",
+        "Russia",
         "Korea"
     ],
     "Korea": [
@@ -523,11 +523,11 @@
     "Kazakhstan": [
         "China",
         "Kyrgyzstan",
-        "Russian Federation",
+        "Russia",
         "Turkmenistan",
         "Uzbekistan"
     ],
-    "Lao People\"s Democratic Republic": [
+    "Laos": [
         "Cambodia",
         "China",
         "Myanmar",
@@ -536,7 +536,7 @@
     ],
     "Lebanon": [
         "Israel",
-        "Syrian Arab Republic"
+        "Syria"
     ],
     "Saint Lucia": [],
     "Liechtenstein": [
@@ -546,7 +546,7 @@
     "Sri Lanka": [],
     "Liberia": [
         "Guinea",
-        "Cote D\"Ivoire",
+        "Ivory Coast",
         "Sierra Leone"
     ],
     "Lesotho": [
@@ -556,7 +556,7 @@
         "Belarus",
         "Latvia",
         "Poland",
-        "Russian Federation"
+        "Russia"
     ],
     "Luxembourg": [
         "Belgium",
@@ -567,9 +567,9 @@
         "Belarus",
         "Estonia",
         "Lithuania",
-        "Russian Federation"
+        "Russia"
     ],
-    "Libyan Arab Jamahiriya": [
+    "Libya": [
         "Algeria",
         "Chad",
         "Egypt",
@@ -608,7 +608,7 @@
         "Algeria",
         "Burkina Faso",
         "Guinea",
-        "Cote D\"Ivoire",
+        "Ivory Coast",
         "Mauritania",
         "Niger",
         "Senegal"
@@ -617,12 +617,12 @@
         "Bangladesh",
         "China",
         "India",
-        "Lao People\"s Democratic Republic",
+        "Laos",
         "Thailand"
     ],
     "Mongolia": [
         "China",
-        "Russian Federation"
+        "Russia"
     ],
     "Macao": [],
     "Northern Mariana Islands": [],
@@ -672,7 +672,7 @@
         "Benin",
         "Burkina Faso",
         "Chad",
-        "Libyan Arab Jamahiriya",
+        "Libya",
         "Mali",
         "Nigeria"
     ],
@@ -693,7 +693,7 @@
     ],
     "Norway": [
         "Finland",
-        "Russian Federation",
+        "Russia",
         "Sweden"
     ],
     "Nepal": [
@@ -728,21 +728,21 @@
         "Afghanistan",
         "China",
         "India",
-        "Iran, Islamic Republic Of"
+        "Iran"
     ],
     "Poland": [
         "Belarus",
         "Czech Republic",
         "Germany",
         "Lithuania",
-        "Russian Federation",
+        "Russia",
         "Slovakia",
         "Ukraine"
     ],
     "Saint Pierre And Miquelon": [],
     "Pitcairn": [],
     "Puerto Rico": [],
-    "Palestinian Territory, Occupied": [
+    "Palestine": [
         "Israel",
         "Jordan"
     ],
@@ -776,7 +776,7 @@
         "Montenegro",
         "Romania"
     ],
-    "Russian Federation": [
+    "Russia": [
         "Azerbaijan",
         "Belarus",
         "China",
@@ -815,7 +815,7 @@
         "Egypt",
         "Eritrea",
         "Ethiopia",
-        "Libyan Arab Jamahiriya"
+        "Libya"
     ],
     "Sweden": [
         "Finland",
@@ -866,7 +866,7 @@
         "Guatemala",
         "Honduras"
     ],
-    "Syrian Arab Republic": [
+    "Syria": [
         "Iraq",
         "Israel",
         "Jordan",
@@ -881,7 +881,7 @@
     "Chad": [
         "Cameroon",
         "Central African Republic",
-        "Libyan Arab Jamahiriya",
+        "Libya",
         "Niger",
         "Nigeria",
         "Sudan"
@@ -894,7 +894,7 @@
     ],
     "Thailand": [
         "Cambodia",
-        "Lao People\"s Democratic Republic",
+        "Laos",
         "Malaysia",
         "Myanmar"
     ],
@@ -910,13 +910,13 @@
     ],
     "Turkmenistan": [
         "Afghanistan",
-        "Iran, Islamic Republic Of",
+        "Iran",
         "Kazakhstan",
         "Uzbekistan"
     ],
     "Tunisia": [
         "Algeria",
-        "Libyan Arab Jamahiriya"
+        "Libya"
     ],
     "Tonga": [],
     "Turkey": [
@@ -925,9 +925,9 @@
         "Bulgaria",
         "Georgia",
         "Greece",
-        "Iran, Islamic Republic Of",
+        "Iran",
         "Iraq",
-        "Syrian Arab Republic"
+        "Syria"
     ],
     "Trinidad And Tobago": [],
     "Tuvalu": [],
@@ -948,7 +948,7 @@
         "Moldova",
         "Poland",
         "Romania",
-        "Russian Federation",
+        "Russia",
         "Slovakia"
     ],
     "Uganda": [
@@ -988,7 +988,7 @@
     "Vietnam": [
         "Cambodia",
         "China",
-        "Lao People\"s Democratic Republic"
+        "Laos"
     ],
     "Vanuatu": [],
     "Wallis And Futuna": [],
